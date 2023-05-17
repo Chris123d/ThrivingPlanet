@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.athrivingplanet_xr-15973114.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "G:/OneMoreTry4Real/OneMoreTry/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "AThrivingPlanet_XR-15973114 [UE Editor]"
+				}
+			}
+		}
+	]
+}
